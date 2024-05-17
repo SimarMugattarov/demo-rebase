@@ -9,6 +9,7 @@ public class App {
     }
 
     public static void main(String[] args) {
+        //this is feature 2 comment
         System.out.println(new App().getGreeting());
     }
 }
