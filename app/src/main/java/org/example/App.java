@@ -12,4 +12,6 @@ public class App {
         //feature 2 commit
         System.out.println(new App().getGreeting());
     }
+
+    public void doIt(){}
 }
