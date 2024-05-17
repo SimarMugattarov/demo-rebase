@@ -9,8 +9,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        //use system utility to print message
-        //this an app message feature feature 1 updates
         System.out.println(new App().getGreeting());
     }
 }
