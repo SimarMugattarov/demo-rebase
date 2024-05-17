@@ -13,5 +13,7 @@ public class App {
         System.out.println(new App().getGreeting());
     }
 
-    public void doNothingCall(){}
+    public void doNothingCall(){
+        //aanother example of item
+    }
 }
