@@ -10,7 +10,7 @@ public class App {
 
     public static void main(String[] args) {
         //use system utility to print message
-        //this an app message
+        //this an app message feature2
         System.out.println(new App().getGreeting());
     }
 }
