@@ -9,7 +9,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        //Feature 2 is ready
+        //use system utility to print message
         System.out.println(new App().getGreeting());
     }
 }
