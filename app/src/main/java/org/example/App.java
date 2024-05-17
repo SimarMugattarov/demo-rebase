@@ -9,8 +9,8 @@ public class App {
     }
 
     public static void main(String[] args) {
-        //use system utility to print message 2
-        //this an app message extract message2
+        //use system utility to print message 3
+        //this an app message extract message3
         System.out.println(new App().getGreeting());
     }
 }
