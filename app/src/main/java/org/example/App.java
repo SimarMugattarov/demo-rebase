@@ -9,6 +9,7 @@ public class App {
     }
 
     public static void main(String[] args) {
+        //Feature 2 is ready
         System.out.println(new App().getGreeting());
     }
 }
