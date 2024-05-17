@@ -13,7 +13,8 @@ public class App {
         System.out.println(new App().getGreeting());
     }
 
-    public void doNothingCall(){
+    public final void doNothingCall(){
         //aanother example of item
+        
     }
 }
